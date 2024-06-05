@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vize", "vize.csproj", "{2EF449EA-22A5-44CB-985D-4ED3E498D7F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vizeui", "..\vizeui\vizeui.csproj", "{040C71A1-C5E5-4D9A-ACA4-0FA18B69F11D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EF449EA-22A5-44CB-985D-4ED3E498D7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF449EA-22A5-44CB-985D-4ED3E498D7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF449EA-22A5-44CB-985D-4ED3E498D7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF449EA-22A5-44CB-985D-4ED3E498D7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040C71A1-C5E5-4D9A-ACA4-0FA18B69F11D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040C71A1-C5E5-4D9A-ACA4-0FA18B69F11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040C71A1-C5E5-4D9A-ACA4-0FA18B69F11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040C71A1-C5E5-4D9A-ACA4-0FA18B69F11D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D9E4D43-E807-4E49-8B88-DEFA7749E820}
+	EndGlobalSection
+EndGlobal
